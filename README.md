@@ -37,4 +37,4 @@ To run this project, you need to have the following Python libraries installed:
 
 # **References**
 - [Machine Learning Specialization on Coursera](https://www.coursera.org/specializations/machine-learning-introduction)
-- [Stanford Linear Regression Lecture](https://www.youtube.com/watch?v=gqKaVgQxEJ0)"# Linear-Regression-from-scratch" 
+- [Stanford Linear Regression Lecture](https://www.youtube.com/watch?v=gqKaVgQxEJ0)
